@@ -23,7 +23,7 @@ public class JDBC1 {
 		stmt.close();
 		con.close();
 		
-		aa
+		
 	}
 
 }
